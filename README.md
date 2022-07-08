@@ -12,9 +12,11 @@ The task is to identify earnings among countries of respondents and factors that
 PROCESS
 
 Tools used:
+
 Microsoft Excel
 
 Techniques:
+
 Data Cleansing
 
 Data Analysis
