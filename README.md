@@ -10,7 +10,7 @@ Recently, people have begun to complain about their pay. They have identified th
 The task is to identify earnings among countries of respondents and factors that could have necessitate it. Performing the role of a data analyst, the survey's data was analyzed and summarized for use.
 
 
-# The Tools used
+# The Tool used
 Microsoft Excel
 
 Techniques:
